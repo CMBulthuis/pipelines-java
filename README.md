@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/chrisaz400/Parts%20Unlimited/_apis/build/status/CMBulthuis.pipelines-java?branchName=master)](https://dev.azure.com/chrisaz400/Parts%20Unlimited/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
